@@ -1,6 +1,6 @@
 {
-  "name": "bsg",
-  "version": "1.0.0",
+  "name": "bsg-nodejs",
+  "version": "1.0.12",
   "description": "NodeJS wrapper for the Bulk SMS Solutions API",
   "main": "lib/bsg.js",
   "engines": {
@@ -25,7 +25,15 @@
   "license": "BSD-2-Clause",
   "homepage": "https://github.com/bsg/bsg-nodejs",
   "dependencies": {
-    "request-promise":"lastest"
+    "request":"2.79"
   },
-  "devDependencies": {}
+  "devDependencies": {
+	  "should":"11.2.0",
+	  "should-equal":"1.0.1",
+	  "should-format":"3.0.3",
+	  "should-type":"1.4.0",
+	  "should-type-adaptors":"1.0.1",
+	  "should-util":"1.0.0",
+	  "mocha":"3.2.0"
+  }
 }
