@@ -1,6 +1,6 @@
 {
   "name": "bsg-nodejs",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "NodeJS wrapper for the Bulk SMS Solutions API",
   "main": "lib/bsg.js",
   "engines": {
