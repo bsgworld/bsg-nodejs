@@ -1,0 +1,31 @@
+{
+  "name": "bsg",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for the Bulk SMS Solutions API",
+  "main": "lib/bsg.js",
+  "engines": {
+    "node": ">=4.7.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bsg/bsg-nodejs.git"
+  },
+  "keywords": [
+    "sms",
+    "hlr",
+    "viber"
+  ],
+  "author": "BSG HONG KONG LIMITED <support@bsg.world> (https://bsg.world/)",
+  "contributors": [
+    "Anton Zelenski <zelibobla@gmail.com>"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/bsg/bsg-nodejs",
+  "dependencies": {
+    "request-promise":"lastest"
+  },
+  "devDependencies": {}
+}
