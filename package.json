@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/bsg/bsg-nodejs.git"
+    "url": "git+ssh://git@github.com/bsgworld/bsg-nodejs.git"
   },
   "keywords": [
     "sms",
@@ -23,7 +23,7 @@
     "Anton Zelenski <zelibobla@gmail.com>"
   ],
   "license": "BSD-2-Clause",
-  "homepage": "https://github.com/bsg/bsg-nodejs",
+  "homepage": "https://github.com/bsgworld/bsg-nodejs",
   "dependencies": {
     "request":"2.79"
   },
