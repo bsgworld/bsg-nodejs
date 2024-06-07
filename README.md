@@ -1,18 +1,15 @@
-BSG API for Node.js
-================================
+# BSG API. Free SMS API - Node.js
 
 This repository contains the open source Node.js client for BSG API.
 
+## Requirements
 
-Requirements
-------------
-
-- [Sign up](https://bsg.world) for a free account
-- Get `access_key`
+- [Sign up](https://app.bsg.world/auth/signup?utm_source=github&utm_medium=referral&utm_campaign=nodejs) for a free account
+- Get api key [here](https://app.bsg.world/integration/remote?utm_source=github&utm_medium=referral&utm_campaign=nodejs)
+- Go through the [API documentation](https://bsg.world/documentations/rest-api/sms-api/sending-sms/?utm_source=github&utm_medium=referral&utm_campaign=nodejs)
 
 
-Installation
-------------
+## Installation
 
 `npm install bsg-nodejs`
 
